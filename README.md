@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]
 
-<!--
-**mohammad-waleed/mohammad-waleed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring AI engineer currently learning and building in the field of **Agentic AI** — exploring how intelligent agents can reason, plan, and act autonomously.  
+My focus is on developing systems that integrate reasoning, memory, and decision-making using modern AI frameworks.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Working On
+- Learning and experimenting with **Agentic AI** frameworks  
+- Building autonomous agents with real-world reasoning capabilities  
+- Exploring multi-agent collaboration and adaptive behavior  
+
+---
+
+### 🧠 Interests
+- Artificial Intelligence  
+- Machine Learning  
+- Agentic Architectures  
+- Autonomous Systems  
+
+---
+
+### 🛠️ Tech Stack
+- **Python**  
+- **OpenAI SDK**  
+- **FastAPI**  
+- **LangChain**
+
+---
+
+### 📫 Connect with Me
+[LinkedIn](https://linkedin.com/in/yourprofile) | [Email](muhammadwaleed2075@gmail.com)
+
