@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Muhammad Waleed]
+# 👋 Hi, I'm Muhammad Waleed
 
 I'm an aspiring AI engineer currently learning and building in the field of **Agentic AI** — exploring how intelligent agents can reason, plan, and act autonomously.  
 My focus is on developing systems that integrate reasoning, memory, and decision-making using modern AI frameworks.
@@ -30,6 +30,6 @@ My focus is on developing systems that integrate reasoning, memory, and decision
 
 ### 📫 Connect with Me
 
-Linkdin : -----------------
-Email : muhammadwaleed2075@gmail.com
+*Linkdin* : -----------------
+*Email* : muhammadwaleed2075@gmail.com
 
